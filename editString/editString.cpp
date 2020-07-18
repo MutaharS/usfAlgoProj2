@@ -72,7 +72,8 @@ int main(){
         }
     }
 
-    string str1 = "you should not";
-    string str2 = "thou shalt not";
+    string str1 = "food";
+    string str2 = "money";
     cout << string_compare(str1, str2, str1.length()+1, str2.length()+1) << endl;
 }
+
