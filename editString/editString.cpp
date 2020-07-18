@@ -1,3 +1,5 @@
+// Test comment
+
 #define MAXLEN 20
 #define MATCH 0
 #define INSERT 1
