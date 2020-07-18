@@ -72,7 +72,7 @@ int main(){
         }
     }
 
-    string str1 = "food";
+    string str1 = "foog";
     string str2 = "money";
     cout << string_compare(str1, str2, str1.length()+1, str2.length()+1) << endl;
 }
